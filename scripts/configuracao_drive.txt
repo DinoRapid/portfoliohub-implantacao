@@ -1,0 +1,5 @@
+Diretório criado "PortfolioHUB Projetos" no Google Drive.
+Permissoes definidas:
+- Admin: leitura e escrita total
+- Revisores: leitura e comentarios
+- Alunos: apenas upload de documentos em pastas especificas
