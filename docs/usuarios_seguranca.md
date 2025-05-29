@@ -36,3 +36,11 @@ Simulacao de criacao de contas no Google Workspace:
 
 - Google Docs:
   - Documentos colaborativos compartilhados por grupo
+
+## Politicas de Seguranca Aplicadas (Simuladas)
+
+- Obrigatoriedade de autenticação em duas etapas (2FA) para todos os usuarios
+- Restrição de acesso a documentos apenas via contas autorizadas
+- Revisão manual de permissões a cada nova etapa do projeto
+- Utilização de logs de atividades via painel do administrador Google Workspace
+- Backup de documentos automatizado no Google Drive
