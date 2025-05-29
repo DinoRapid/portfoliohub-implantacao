@@ -11,6 +11,5 @@
 ## Ferramentas utilizadas
 - Google Docs
 - Google Drive
-- Google Calendar
 - Google Gemini
 - GitHub
