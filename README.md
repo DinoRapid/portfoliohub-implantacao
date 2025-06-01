@@ -1,5 +1,5 @@
-# portfoliohub-implantacao
-Repositorio do projeto de implantacao do PortfolioHUB com integracao ao Google Workspace e GitHub, utilizando a IA Google Gemini como guia estrategico.
+# portfoliohub-implantação
+Repositorio do projeto de implantação do PortfolioHUB com integração ao Google Workspace e GitHub, utilizando a IA Google Gemini como guia estratégico.
 
 ## Objetivos
 - Integrar ferramentas do Google Workspace ao PortfolioHUB
@@ -8,9 +8,9 @@ Repositorio do projeto de implantacao do PortfolioHUB com integracao ao Google W
 - Documentar o processo de forma clara e segura
 
 ## Estrutura
-- `/docs`: Documentos de planejamento e configuracoes
-- `/scripts`: Trechos simulados de configuracoes utilizadas
+- `/docs`: Documentos de planejamento e configurações
+- `/scripts`: Trechos simulados de configurações utilizadas
 - `README.md`: Este arquivo principal
 
-## Licenca
-Este repositório e parte de um projeto academico individual.
+## Licença
+Este repositório e parte de um projeto acadêmico individual.
