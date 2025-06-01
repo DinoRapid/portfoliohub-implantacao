@@ -1,23 +1,23 @@
-# Gestao de Usuarios e Politicas de Seguranca (Simulação)
+# Gestão de Usuarios e Políticas de Segurança (Simulação)
 
 ## Estrutura de Usuarios
 
-Simulacao de criacao de contas no Google Workspace:
+Simulação de criação de contas no Google Workspace:
 
 - **Administrador**
   - Nome: Gabriel Gazineli
   - Email: admin.portfoliohub@gmail.com
-  - Permissoes: controle total, integracoes, configuracoes
+  - Permissões: controle total, integracoes, configuracoes
 
 - **Aluno (Contribuidor)**
   - Nome: Fulano da Silva
   - Email: fulano.portfoliohub@gmail.com
-  - Permissoes: acesso a arquivos, edicao de documentos e eventos
+  - Permissões: acesso a arquivos, edicao de documentos e eventos
 
 - **Revisor (Leitor com comentario)**
   - Nome: Fulana de Souza
   - Email: fulana.portfoliohub@gmail.com
-  - Permissoes: leitura e comentarios apenas
+  - Permissões: leitura e comentarios apenas
 
 ## Grupos criados
 
@@ -28,11 +28,11 @@ Simulacao de criacao de contas no Google Workspace:
 ## Compartilhamento com permissoes
 
 - Google Drive:
-  - Pasta principal com permissao total para administradores
-  - Subpastas separadas por grupo com permissoes restritas
+  - Pasta principal com permissão total para administradores
+  - Subpastas separadas por grupo com permissões restritas
 
 - Google Calendar:
-  - Agenda compartilhada com edicao para admins e visualizacao para alunos
+  - Agenda compartilhada com edição para admins e visualização para alunos
 
 - Google Docs:
   - Documentos colaborativos compartilhados por grupo
