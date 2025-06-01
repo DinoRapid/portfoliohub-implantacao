@@ -1,4 +1,4 @@
-# Configuracoes do Google Workspace
+# Configurações do Google Workspace
 
 ## Ambiente criado (simulado)
 - Conta principal: portfoliohub.project@gmail.com
@@ -6,5 +6,4 @@
 
 ## Servicos integrados
 - Google Drive: para armazenamento de arquivos do projeto
-- Google Calendar: para agendamento de entregas e revisoes
-- Google Docs: para documentacao colaborativa
+- Google Docs: para documentação colaborativa
